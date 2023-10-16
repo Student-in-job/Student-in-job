@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Student-in-job
-- 👀 I’m interested in machine learrning, artificial intelligence, software architecture
+- 👀 I’m interested in machine learning, artificial intelligence, software architecture
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on deep learning
 - 📫 How to reach me vitalik.pak@gmail.com
